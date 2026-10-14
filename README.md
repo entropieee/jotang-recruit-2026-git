@@ -1,2 +1,2 @@
 # 哈喽^^
-this is used for the 2026recruit of jotang 
+this repo is used for the 2026recruit of jotang 
